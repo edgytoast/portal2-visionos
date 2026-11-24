@@ -80,3 +80,7 @@ Start from a checkout of this repository.
   [README](README.md#tuning).
 - Heavier areas can drop below 60 fps (judder); the portal gun's glow is missing; objects carried close, like Wheatley,
   can look squashed; menus, loading screens and the pause menu show on a flat screen.
+
+## Support
+
+This fork keeps Portal 2 installable on Apple Vision Pro. It's maintained as part of the [AVP Ports Index](https://github.com/edgytoast/avp-ports-index), which tracks every port we can find and runs a safety check on each one. If this guide got you playing, you can [buy me a coffee](https://buymeacoffee.com/adminpz) to help keep it running.
